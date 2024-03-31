@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheMatchingGame_Pikachu", "TheMatchingGame_Pikachu\TheMatchingGame_Pikachu.vcxproj", "{9FE9D3B9-5316-4013-B385-0271628FB9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Debug|x64.ActiveCfg = Debug|x64
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Debug|x64.Build.0 = Debug|x64
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Debug|x86.Build.0 = Debug|Win32
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Release|x64.ActiveCfg = Release|x64
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Release|x64.Build.0 = Release|x64
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Release|x86.ActiveCfg = Release|Win32
+		{9FE9D3B9-5316-4013-B385-0271628FB9BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C262449-2E35-4515-A3AB-7AC328F7C7DD}
+	EndGlobalSection
+EndGlobal

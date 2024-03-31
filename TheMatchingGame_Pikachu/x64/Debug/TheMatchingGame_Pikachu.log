@@ -1,0 +1,3 @@
+﻿  StandardCheck.cpp
+C:\Users\ADMIN\source\repos\TheMatchingGame_Pikachu\TheMatchingGame_Pikachu\StandardCheck.cpp(83,1): warning C4715: 'lineMatching': not all control paths return a value
+  TheMatchingGame_Pikachu.vcxproj -> C:\Users\ADMIN\source\repos\TheMatchingGame_Pikachu\x64\Debug\TheMatchingGame_Pikachu.exe
